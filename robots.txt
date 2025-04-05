@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /
 
-Sitemap: https://situsanda.com/sitemap.xml
+Sitemap: https://slametalbarkah.github.io./can/sitemap.xml
